@@ -1,0 +1,16 @@
+date,student_id,name,class,status
+2025-01-01,STU011,Ananya Sharma,10,Present
+2025-01-01,STU012,Pooja Patel,10,Absent
+2025-01-01,STU013,Neha Verma,10,Present
+2025-01-01,STU014,Riya Singh,10,Present
+2025-01-01,STU015,Isha Gupta,10,Present
+2025-01-02,STU001,Aarav Sharma,10,Present
+2025-01-02,STU002,Vihaan Patel,10,Absent
+2025-01-02,STU003,Aditya Verma,10,Present
+2025-01-02,STU004,Arjun Singh,10,Present
+2025-01-02,STU005,Reyansh Gupta,10,Absent
+2025-01-02,STU021,Rahul Sharma,10,Present
+2025-01-02,STU022,Amit Patel,10,Present
+2025-01-02,STU023,Vikas Verma,10,Absent
+2025-01-02,STU024,Manish Singh,10,Present
+2025-01-02,STU025,Akash Gupta,10,Present
